@@ -28,5 +28,7 @@ simple-web-project
 - Clean and organized code structure
 
 ## Contributing
+1. Jidne Huda
+2. Azizul Hakim Sumon
 
 Feel free to submit issues or pull requests for improvements or bug fixes.
